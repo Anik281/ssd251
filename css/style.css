@@ -1,0 +1,32 @@
+body{
+	margin: 0;
+}
+div{
+	width: 1000px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	margin-top: 100px;
+	box-shadow: 0 0 10px #0000001f;
+	padding: 50px;
+}
+h1{
+	font-size: 70px;
+	color: #333;
+	/* background-color: #ffe0001f; */
+	text-shadow: 4px 4px 5px #716d6d59;
+}
+.colorPurple{
+	color: purple;
+}
+.colorOrange{
+	color: orange;
+}
+p{
+    font-size: 30px;
+    line-height: 1.3;
+    color: #000;
+}
+img{
+	max-width: 100%;
+}
